@@ -1,1 +1,3 @@
 # Bank-Customer-Analysis
+
+Banking Intelligence aimed to develop a supervised machine learning model to predict future customer behaviors based on transactional data and product ownership characteristics. The central objective of the project was to create a denormalized table with a series of indicators derived from the available tables in the database, representing customer behaviors and financial activities. The goal was to build a feature table for training machine learning models by enriching customer data with various indicators calculated from their transactions and owned accounts. The final table was linked to the customer ID and contained both quantitative and qualitative information.
